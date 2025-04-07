@@ -1,0 +1,30 @@
+{
+  "name": "react-component-library",
+  "version": "1.0.0",
+  "description": "A reusable React component library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik-shewale/cognologix-react-button-library.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "library"
+  ],
+  "author": "Pratik Shewale",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3"
+  },
+  "scripts": {
+    "build": "echo 'Nothing to build yet!'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
